@@ -97,6 +97,7 @@ Parses console commands and triggers relevant Actions.
 
 # Example
 ```
+using Jutils.Console;
 public class MyExampleClass : MonoBehaviour
 {
 	void Awake()
