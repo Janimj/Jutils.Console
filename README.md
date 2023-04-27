@@ -97,6 +97,7 @@ Parses console commands and triggers relevant Actions.
 
 # Example
 ```
+using UnityEngine;
 using Jutils.Console;
 public class MyExampleClass : MonoBehaviour
 {
